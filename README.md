@@ -1,3 +1,2 @@
 # Digital-Clock
-
-You can check demo [click on](https://digitalclockdemo.netlify.com)
+You can see the output by clicking on the [demo](https://digitalclockdemo.netlify.com)
